@@ -1,3 +1,4 @@
+![logo](https://github.com/Suhasini007/Suhasini007/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Suhasini Kulkarni</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
